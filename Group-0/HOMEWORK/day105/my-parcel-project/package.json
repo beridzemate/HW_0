@@ -11,6 +11,15 @@
   "license": "ISC"
 }
 
+
+;{
+  "name": "",
+  "description": "description",
+  "authors": "author",
+  "version": "1.0.0",
+  "main": "pathToMain",
+  "dependencies": {}
+}
 {
   "start": "parcel src/index.html",
   "build": "parcel build src/index.html"
