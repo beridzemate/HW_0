@@ -1,6 +1,6 @@
 function changeText() {
     var paragraph = document.getElementById("myParagraph");
-    paragraph.innerHTML = "HI IM DANIEL i like proggraming and i study in GOA i love GOA <br> My skills: js,python,html & css ";
+    paragraph.innerHTML = "HI IM Mate i like proggraming and i study in GOA i love GOA <br> My skills: js,python,html & css ";
 }
 class TextScramble {
     constructor(el) {
@@ -59,7 +59,7 @@ class TextScramble {
   
   const phrases = [
     'Hey,',
-    'This Is Daniels Portofoilo',
+    'This Is matePortofoilo',
     'Have fun :)'
   ]
   

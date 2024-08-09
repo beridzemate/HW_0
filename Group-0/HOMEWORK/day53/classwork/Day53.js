@@ -1,7 +1,7 @@
 const me = {
-    name: "Daniel",
-    surname: "Abramiani",
-    age: 13,
+    name: "mate",
+    surname: "beridze",
+    age: 15,
     
     getName: function(){
         return me.name
